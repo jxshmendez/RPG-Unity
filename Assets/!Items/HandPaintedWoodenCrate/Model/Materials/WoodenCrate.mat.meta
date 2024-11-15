@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8472629c999bd4949b126e5ce9f7b48f
+timeCreated: 1431588756
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36854
+  packageName: Hand painted wooden crate
+  packageVersion: 1.0
+  assetPath: Assets/HandPaintedWoodenCrate/Model/Materials/WoodenCrate.mat
+  uploadId: 63561

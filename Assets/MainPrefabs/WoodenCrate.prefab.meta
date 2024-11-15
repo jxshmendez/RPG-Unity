@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 217352bf0da9ebb458dbf7e513e2735d
+timeCreated: 1431588933
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36854
+  packageName: Hand painted wooden crate
+  packageVersion: 1.0
+  assetPath: Assets/HandPaintedWoodenCrate/Prefab/WoodenCrate.prefab
+  uploadId: 63561
